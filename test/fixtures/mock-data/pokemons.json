@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    "weight": 69
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    },
+    "weight": 130
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+    },
+    "weight": 1000
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    },
+    "weight": 85
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+    },
+    "weight": 190
+  },
+  {
+    "id": 6,
+    "name": "charizard",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    "weight": 905
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    "weight": 90
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    },
+    "weight": 225
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    },
+    "weight": 855
+  },
+  {
+    "id": 10,
+    "name": "caterpie",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+    },
+    "weight": 29
+  },
+  {
+    "id": 11,
+    "name": "metapod",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+    },
+    "weight": 99
+  },
+  {
+    "id": 12,
+    "name": "butterfree",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+    },
+    "weight": 320
+  },
+  {
+    "id": 13,
+    "name": "weedle",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+    },
+    "weight": 32
+  },
+  {
+    "id": 14,
+    "name": "kakuna",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+    },
+    "weight": 100
+  },
+  {
+    "id": 15,
+    "name": "beedrill",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+    },
+    "weight": 295
+  },
+  {
+    "id": 16,
+    "name": "pidgey",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+    },
+    "weight": 18
+  },
+  {
+    "id": 17,
+    "name": "pidgeotto",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+    },
+    "weight": 300
+  },
+  {
+    "id": 18,
+    "name": "pidgeot",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+    },
+    "weight": 395
+  },
+  {
+    "id": 19,
+    "name": "rattata",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+    },
+    "weight": 35
+  },
+  {
+    "id": 20,
+    "name": "raticate",
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+    },
+    "weight": 185
+  }
+]
