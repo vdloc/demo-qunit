@@ -56,7 +56,7 @@ QUnit.module('Pokemon API service', function (hooks) {
 
     let response = await apiService.getPokemon(pokemonEndpoint);
     assert.notEqual(response, null, 'Get a pokemon');
-    assert.strictEqual(response.id, 2, 'Pokemon id is 1');
+    assert.strictEqual(response.id, 1, 'Pokemon id is 1');
     assert.strictEqual(response.name, 'bulbasaur', 'Pokemon name is bulbasaur');
     done();
   });
