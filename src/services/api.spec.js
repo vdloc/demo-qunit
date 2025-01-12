@@ -44,7 +44,7 @@ QUnit.module('Pokemon API service', function (hooks) {
 
   QUnit.test('Service can get a pokemon', async function (assert) {
     let done = assert.async();
-    let pokemonId = 2;
+    let pokemonId = 1;
     let pokemonEndpoint = `${apiService.baseUrl}pokemon/${pokemonId}`;
     let mockPokemonData = mockData[0];
 
