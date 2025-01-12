@@ -15,7 +15,6 @@ let datagridSpy = sinon.spy(global.$.fn, 'dxDataGrid');
 require('../services/api.js');
 require('../features/pokemon-datagrid.js');
 
-
 QUnit.module('Pokemon Datagrid', function (hooks) {
   let apiService = window.app.services.api;
 
